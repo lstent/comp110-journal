@@ -12,4 +12,6 @@ As the title of this article makes obvious it discusses flowcharts in relation t
 I have some experience of this because when I was in my second year of secondry school in 2006 they were only just introducing programming to our school and we learnt how to programme a set of traffic lights using flowcharts, I enjoyed the whole process because the flowcharts made it simple and easy to understand, although this paper found flowcharts hindered programming with university level students, perhaps if they tried the same activities with 11 - 12 year olds the results may have been leaning more towards flowcharts than detailed programs.
 
 # 3. A fast procedure for computing the distance between complex objects in three-dimensional space 
+
+
 # 4. Statement considered harmful
